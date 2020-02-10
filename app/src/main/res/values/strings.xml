@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageList</string>
+    <string name="tela_inicial">Recomendações</string>
+    <string name="tela_detalhe">Tutorial</string>
+</resources>
